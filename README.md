@@ -45,7 +45,7 @@ Mental-Health-AI-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/HiteshSonetaNEU/Mental-health-Assistant
 cd Mental-Health-AI-Assistant
 ```
 
